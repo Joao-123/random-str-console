@@ -16,11 +16,7 @@ npm install -g random-str-console
 
 # Contributing
 
-<<<<<<< HEAD
 If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-console](https://github.com/Joao-123/random-str-console)
-=======
-If someone wants to add or improve something, I invite you to collaborate directly in this repository: [random-str-console](https://github.com/gndx/random-str-msg)
->>>>>>> 09e69c028a88391dfbb19c09381068deb99b5c55
 
 # License
 
